@@ -27,8 +27,8 @@ YDUI：一只基于Vue2.x的移动端&微信UI。 http://vue.ydui.org/<br>
 GMU：（百度GMU小组开发）基于zepto的ui组件库，适用于移动端  https://github.com/fex-team/GMU<br>
 AT-UI：是一款基于 Vue.js 2.0 的前端 UI 组件库，主要用于快速开发 PC 网站中后台产品 https://at-ui.github.io/<br>
 Taro：目的就是能够统一移动端的开发，写一套代码，可以编译成h5、app、小程序运行。https://taro.aotu.io/  https://github.com/NervJS/taro<br>
-Taro UI：一套基于 Taro 框架开发的多端 UI 组件库 https://taro-ui.aotu.io/ GitHub网址是：https://github.com/NervJS/taro，Taro有个官方UI组件库，GitHub网址是https://github.com/NervJS/taro-ui<br>
-LayUI：https://www.layui.com/ 面向所有层次的前后端开发者，零门槛开箱即用的前端UI解决方案<br>
+Taro UI：一套基于 Taro 框架开发的多端 UI 组件库 https://taro-ui.aotu.io/ GitHub网址是：https://github.com/NervJS/taro, Taro有个官方UI组件库，GitHub网址是https://github.com/NervJS/taro-ui<br>
+LayUI：面向所有层次的前后端开发者，零门槛开箱即用的前端UI解决方案,https://www.layui.com/<br>
 MUI：最接近原生App体验的前端框架 http://www.dcloud.io/mui.html. https://github.com/EasyTuan/mui-kidApp： 基于 MUI 构建一个具有 90 +页面的APP应用<br>
 uni-app：是一个使用 Vue.js 开发跨平台应用的前端框架，开发者编写一套代码，可编译到iOS、Android、H5、小程序等多个平台。https://uniapp.dcloud.io/<br>
 
