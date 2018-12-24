@@ -1,7 +1,7 @@
 # UI and JS
 
 Vue Material： is Simple, lightweight and built exactly according to the Google Material Design specs, https://github.com/vuematerial/vue-material，https://vuematerial.io/<br>
-BootstrapVue: provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js, https://bootstrap-vue.js.org/，https://github.com/bootstrap-vue/bootstrap-vue<br>
+BootstrapVue: provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js, https://bootstrap-vue.js.org/, https://github.com/bootstrap-vue/bootstrap-vue<br>
 iview:  high quality UI Toolkit built on Vue.js. https://www.iviewui.com/, https://github.com/iview/iview<br>
 Muse-UI:Material Design UI library for Vuejs 2.0, https://github.com/museui/muse-ui, https://muse-ui.org/<br>
 vant: Lightweight Mobile UI Components built on Vue, https://youzan.github.io/vant/<br>
@@ -31,6 +31,7 @@ Taro UI：一套基于 Taro 框架开发的多端 UI 组件库 https://taro-ui.a
 LayUI： https://www.layui.com/ 面向所有层次的前后端开发者，零门槛开箱即用的前端UI解决方案<br>
 MUI： 最接近原生App体验的前端框架 http://www.dcloud.io/mui.html. https://github.com/EasyTuan/mui-kidApp： 基于 MUI 构建一个具有 90 +页面的APP应用<br>
 uni-app： 是一个使用 Vue.js 开发跨平台应用的前端框架，开发者编写一套代码，可编译到iOS、Android、H5、小程序等多个平台。https://uniapp.dcloud.io/<br>
+
 Animate.css：  CSS 动画库 is a bunch of cool, fun, and cross-browser animations for you to use in your projects.  https://github.com/daneden/animate.css  https://daneden.github.io/animate.css/<br>
 Velocity.js: Velocity 是一个简单易用、高性能、功能丰富的轻量级JS动画库,它能和 jQuery 完美协作,但它不依赖 jQuery，可单独使用  www.velocityjs.org<br>
 
