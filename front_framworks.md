@@ -57,6 +57,7 @@ Bootstrap-vue：https://github.com/bootstrap-vue/bootstrap-vue https://bootstrap
 Vuetify：https://github.com/vuetifyjs/vuetify   https://vuetifyjs.com/zh-Hans/<br>
 Ant Design Vue：https://github.com/vueComponent/ant-design-vue<br>
 Buefy：Lightweight UI components for Vue.js based on Bulma, https://buefy.github.io/<br>
+amaze-vue：基于 amazeui 样式封装的vue组件库, https://smokingrabbit.github.io/amaze-vue/#/<br>
 
 # Dev and design tools
 
