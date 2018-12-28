@@ -44,8 +44,7 @@ Vue-Awesome-Swiper：基于 Swiper4、适用于 Vue 的轮播组件，支持服�
 better-scroll：是一款重点解决移动端（已支持 PC）各种滚动场景需求的插件, https://github.com/ustbhuangyi/better-scroll<br>
 Cube UI：基于 Vue.js 实现的精致移动端组件库, https://didi.github.io/cube-ui/#/zh-CN<br>
 vuex：is a state management pattern + library for Vue.js applications. https://vuex.vuejs.org/<br>
-Vue Material：is Simple, lightweight and built exactly according to the Google Material Design specs, https://github.com/vuematerial/vue-material，https://vuematerial.io/<br>
-BootstrapVue：provides one of the most comprehensive implementations of Bootstrap 4 components and grid system for Vue.js, https://bootstrap-vue.js.org/, https://github.com/bootstrap-vue/bootstrap-vue<br>
+Vue Material：is Simple, lightweight and built exactly according to the Google Material Design specs, https://github.com/vuematerial/vue-material, https://vuematerial.io/<br>
 iview：high quality UI Toolkit built on Vue.js. https://www.iviewui.com/, https://github.com/iview/iview<br>
 Muse-UI：Material Design UI library for Vuejs 2.0, https://github.com/museui/muse-ui, https://muse-ui.org/<br>
 vant：Lightweight Mobile UI Components built on Vue, https://youzan.github.io/vant/<br>
